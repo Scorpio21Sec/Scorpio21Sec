@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Scorpio21Sec 🦂🔐
+# 👋 Hi, I'm Prashant Kumar Singh
 
 <div align="center">
   
@@ -101,7 +101,7 @@
 
 ## 🏅 Certifications & Learning
 
-- 📜 **Google Cybersecurity Professional Certificate** (In Progress)  
+- 📜 **Google Cybersecurity Professional Certificate** 
 - 📚 Self-learning via labs, CTFs & documentation  
 - 🧠 Focused on **industry-relevant security skills**
 
@@ -119,15 +119,8 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Scorpio21Sec&theme=radical)](https://git.io/streak-stats)
 
-</div>
-
----
 
 ## 📫 Connect With Me 🌍
 
