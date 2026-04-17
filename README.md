@@ -1,139 +1,74 @@
-# 👋 Hi, I'm Prashant Kumar Singh
+# Hi, I'm Prashant Kumar Singh
 
 <div align="center">
-  
+
+Cybersecurity learner and builder focused on Linux internals, detection engineering, and practical offensive/defensive security.
+
 [![GitHub followers](https://img.shields.io/github/followers/Scorpio21Sec?style=social)](https://github.com/Scorpio21Sec)
-[![Profile Views](https://komarev.com/ghpvc/?username=Scorpio21Sec&color=blue)](https://github.com/Scorpio21Sec)
+[![Profile Views](https://komarev.com/ghpvc/?username=Scorpio21Sec&color=0e75b6)](https://github.com/Scorpio21Sec)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=flat-square)](https://tryhackme.com/)
 
 </div>
 
----
+## About Me
 
-## 🚀 About Me
+- Building system-level security projects with Go and Python
+- Learning eBPF, Linux syscall telemetry, and anomaly detection
+- Practicing red team and blue team workflows through CTF labs
+- Interested in collaborating on security tooling and open source
 
-- 🔭 Currently working on **Cybersecurity, Python & System-Level Projects**
-- 🌱 Learning **Advanced Cybersecurity, ML & Secure Coding**
-- 👯 Looking to collaborate on **Security Tools, C/C++ & Open Source**
-- 💬 Ask me about **Cybersecurity, Python, C/C++, Linux & Networking**
-- 📫 Reach me at: **curiousprashantks@gmail.com**
-- ⚡ Fun fact: **I enjoy exploiting vulnerabilities to build stronger defenses 🧠💥**
+## Focus Areas
 
----
+- Network traffic analysis and anomaly detection
+- Secure coding and low-level systems programming
+- Vulnerability assessment and web security basics
+- Linux security monitoring and automation scripts
 
-## 🛠️ Technologies & Tools
+## Tech Stack
 
-### 👨‍💻 Programming & Scripting
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A72?style=flat-square)
 
+## Highlight Projects
 
----
+### SentinelGo
+Kernel-level detection pipeline using eBPF syscall events, concurrent Go processing, and anomaly scoring.
 
-## 🔐 Cybersecurity Skills & Tools
+### NetSentry-AI
+Network behavior monitoring with packet feature extraction and time-window based anomaly detection.
 
-### 🧪 Core Security Skills
-- 🛡️ Network Security & Traffic Analysis  
-- 🔍 Vulnerability Assessment & Scanning  
-- 🔐 Secure Coding Practices  
-- 🕵️ Ethical Hacking Fundamentals  
-- 🤖 Security + Machine Learning (Beginner)
+### Phishing Detection System
+Machine learning and rule-based detection for suspicious URLs and email indicators.
 
-### 🧰 Cybersecurity Tools
-- 🐧 Kali Linux / Ubuntu  
-- 🔎 Nmap  
-- 🕷️ Burp Suite  
-- 💥 Metasploit Framework  
-- 📡 Wireshark  
-- 🔑 Hydra  
-- 🔐 John the Ripper  
-- 🧱 iptables (Firewall basics)  
-- 📋 OWASP Top 10  
+### Security Automation Scripts
+Linux hardening, user auditing, and permission checks via Bash and Python.
 
----
+## Learning and Certifications
 
-## ⚔️ Red Team vs Blue Team
-
-### 🔴 Red Team (Offensive Security)
-- Reconnaissance & Enumeration  
-- Exploitation using Metasploit  
-- Password attacks (Hydra, John)  
-- Web vulnerabilities (OWASP Top 10)  
-
-### 🔵 Blue Team (Defensive Security)
-- Network traffic monitoring  
-- Log analysis & threat detection  
-- Firewall configuration basics  
-- Secure system hardening  
-
----
-
-## 🧑‍💻 CTF & Practice Platforms
-
-- 🎯 **TryHackMe** – Beginner to Intermediate Labs  
-- 💻 **Hack The Box** – Hands-on penetration testing  
-- 🧠 Focus on **real-world attack & defense scenarios**
+- Google Cybersecurity Professional Certificate
+- TryHackMe AI Security Program (ongoing)
+- Hands-on practice with TryHackMe and Hack The Box labs
 
 
 
----
+## Connect
 
-## 📂 Featured Cybersecurity Projects
-
-🔹 **Phishing Detection System (ML + Rules)**  
-- Detects malicious URLs & emails  
-- Features: URL length, SSL, domain age  
-- Python + Machine Learning  
-
-🔹 **Network Scanner Tool**  
-- Built using **Python + Nmap**  
-- Automated host & port discovery  
-
-🔹 **Linux Security Scripts**  
-- Bash & Python scripts for automation  
-- User auditing, permission checks  
-
-🔹 **C/C++ Security Programs**  
-- Memory handling & secure coding  
-- Low-level system understanding  
-
----
-
-## 🏅 Certifications & Learning
-
-- 📜 **Google Cybersecurity Professional Certificate** 
-- 📚 Self-learning via labs, CTFs & documentation  
-- 🧠 Focused on **industry-relevant security skills**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Scorpio21Sec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scorpio21Sec&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpio21Sec&layout=compact&theme=radical)
-
-</div>
-
----
-
-
-
-
-## 📫 Connect With Me 🌍
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantkumarsinghuiet/)
-[![Twitter / X](https://img.shields.io/badge/-Twitter%20(X)-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Scorpio21Social)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/21_prashant__/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:curiousprashantks@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantkumarsinghuiet/)
+[![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/Scorpio21Social)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/21_prashant__/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:curiousprashantks@gmail.com)
 
 ---
 
 <div align="center">
 
-🦂 Hack • 🔐 Secure • 🚀 Build  
-💙 Thanks for visiting my profile!
+Build secure systems. Keep learning. Share knowledge.
 
 </div>
